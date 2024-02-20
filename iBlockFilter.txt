@@ -4,8 +4,8 @@
 ! Updated: 2024-02-19
 ! Entries: 50
 ! Expires: 1d
-! Homepage: https://github.com/zkSac/iOS-Filter-Lists
-! Source: https://github.com/zkSac/iOS-Filter-Lists/blob/main/iBlockFilter.txt
+! Homepage: https://github.com/zkSac/iBlockFilter
+! Source: https://github.com/zkSac/iBlockFilter/blob/main/iBlockFilter.txt
 
 !=========== [Filter] ============
 ||adjust.com^
