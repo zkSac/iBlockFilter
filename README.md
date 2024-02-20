@@ -3,3 +3,5 @@ Ad blocker testing tools:
 - [canyoublockit](https://canyoublockit.com)
 - [AdBlock Tester](https://canyoublockit.com)
 
+Filter list:
+https://raw.githubusercontent.com/zkSac/iBlockFilter/main/iBlockFilter.txt
