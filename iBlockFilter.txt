@@ -1,9 +1,9 @@
 ! Title: iBlock Filter List
 ! Description: A comprehensive filter list tailored for iOS devices, blocking ads, trackers, and other unwanted content.
 ! Version: 1.2
-! Updated: 20 Feb 2024 03:07 UTC
+!TimeUpdated: 2024-02-19T14:32:59+00:00
+! Expires: 2 days (update frequency)
 ! Entries: 116
-! Expires: 1 days
 ! Homepage: https://github.com/zkSac/iBlockFilter
 ! Source: https://github.com/zkSac/iBlockFilter/blob/main/iBlockFilter.txt
 
