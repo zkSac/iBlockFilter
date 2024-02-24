@@ -1,9 +1,8 @@
 ! Title: iBlock Filter List
-! Description: A comprehensive filter list tailored for iOS devices, blocking ads, trackers, and other unwanted content.
-! Version: 1.2
-!TimeUpdated: 2024-02-19T14:32:59+00:00
-! Expires: 2 days (update frequency)
-! Entries: 116
+! Description: A simplified DNS level list focused on iOS, iPadOS devices. blocking in-app ads, game ads, trackers, and other unwanted content.
+! Version: 1.3
+! Last modified: 2024-02-24T03:33:50Z
+! Entries: 81
 ! Homepage: https://github.com/zkSac/iBlockFilter
 ! Source: https://github.com/zkSac/iBlockFilter/blob/main/iBlockFilter.txt
 
@@ -11,18 +10,14 @@
 ||adjust.com^
 ||ads-sdk.mattel163.com^
 ||adservice.google.com^
-||adservice.google.com^$important
 ||amazon-adsystem.com^
 ||amazonaax.com^
-||amazonaax.com^$important
 ||api-us.bidmachine.io^
 ||api.ads.yahoo.com^
 ||api.appodealx.com^
 ||api.snapkit.com^
-||api.snapkit.com^$important
 ||app-measurement.com^
 ||app.ssp.yahoo.com^
-||apple.com^
 ||applovin.com^
 ||applvn.com^
 ||appodealx.com^
@@ -30,38 +25,23 @@
 ||appsflyersdk.com^
 ||bidmachine.io^
 ||bigdata.ssp.samsung.com^
-||bigdata.ssp.samsung.com^$important
-||blog.twitter.com^
-||blog.twitter.com^$important
 ||blueduckredapple.com^
 ||bugsnag.com^
 ||bytegoofy.com^
-||bytegoofy.com^$important
 ||byteoversea.com^
 ||camscanner.com.cdn.cloudflare.net^
-||camscanner.com.cdn.cloudflare.net^$important
 ||camscanner.com.cdnga.net^
-||camscanner.com.cdnga.net^$important
 ||camscanner.com^
-||camscanner.com^$important
 ||cdn.ssp.yahoo.com^
 ||cdn77.org^
-||cdn77.org^$important
 ||configure.rayjump.com^
 ||d3vmvmej3wjbxn.cloudfront.net^
-||d3vmvmej3wjbxn.cloudfront.net^$important
 ||doubleclick.net^
 ||doukantv.com^
-||doukantv.com^$important
 ||easybrain.com^
 ||edgecastcdn.net^
-||edgecastcdn.net^$important
 ||everestop.io^
-||exvagos.org^
-||exvagos.org^$important
 ||fyber.com^
-||googleadservices.com^
-||googleadservices.com^$important
 ||helpshift.com^
 ||https://advertising-api-eu.amazon.com^
 ||https://advice-ads.s3.amazonaws.com^
@@ -69,23 +49,18 @@
 ||https://analyticsengine.s3.amazonaws.com^
 ||i18n-pglstatp.com^
 ||ias.tencent-cloud.net^
-||ias.tencent-cloud.net^$important
 ||ibytedtos.com^
 ||inmobi.com^
 ||inmobicdn.net^
 ||inner-active.mobi^
 ||intsig.net.whecloud.com^
-||intsig.net.whecloud.com^$important
 ||intsig.net^
-||intsig.net^$important
 ||ipify.org^
 ||ironsrc.mobi^
 ||isnssdk.com^
 ||miro92.com^
-||miro92.com^$important
 ||ms.applvn.com^
 ||nuosike.com^
-||nuosike.com^$important
 ||oath.cloud^
 ||oath.com^
 ||ogury.co^
@@ -93,34 +68,24 @@
 ||pangle.io^
 ||presage.io^
 ||prod.pinterest.global.map.fastly.net^
-||prod.pinterest.global.map.fastly.net^$important
 ||pubnative.net^
 ||qq.com^
-||qq.com^$important
 ||queniusy.com^
-||queniusy.com^$important
 ||r3.o.lencr.org^
-||r3.o.lencr.org^$important
 ||rayjump.com^
 ||safedk.com^
 ||skype.com^
-||skype.com^$important
 ||smaato.net^
 ||ssacdn.com^
 ||supersonicads.com^
 ||tch571860.tch.quora.com^
-||tch571860.tch.quora.com^$important
 ||thecatmachine.com^
 ||unity3d.com^
 ||unity3dusercontent.com^
 ||uyunad.com^
-||uyunad.com^$important
 ||vungle.com^
 ||weibo.com^
-||weibo.com^$important
 ||widgets.pinterest.com^
-||widgets.pinterest.com^$important
-||xx.fbcdn.net^
 ||yimg.com^
 ||zendesk.com^
 !======= End of Content Filters =========
