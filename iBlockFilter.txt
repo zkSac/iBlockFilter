@@ -1,15 +1,18 @@
 ! Title: iBlock Filter List
-! Description: A simplified DNS level list focused on iOS, iPadOS devices. blocking in-app ads, game ads, trackers, and other unwanted content.
-! Version: 1.3
-! Last modified: 2024-02-24T03:33:50Z
-! Entries: 81
+! Description: A simplified DNS level list focused on iOS & iPadOS devices. Blocking in-app ads, game ads, trackers, and other unwanted content. Always updated with filters for the top 30 most downloaded games on App Store 
+! Version: 1.4
+! Last modified: 2024-02-24T04:30:12Z
+! Entries: 89
 ! Homepage: https://github.com/zkSac/iBlockFilter
 ! Source: https://github.com/zkSac/iBlockFilter/blob/main/iBlockFilter.txt
 
 !=========== [Filter] ============
+||abigames.com.vn^
+||abigames.com^
 ||adjust.com^
 ||ads-sdk.mattel163.com^
 ||adservice.google.com^
+||afafb.com^
 ||amazon-adsystem.com^
 ||amazonaax.com^
 ||api-us.bidmachine.io^
@@ -58,14 +61,17 @@
 ||ipify.org^
 ||ironsrc.mobi^
 ||isnssdk.com^
+||lionstudios.cc^
 ||miro92.com^
 ||ms.applvn.com^
+||nakamacloud.io^
 ||nuosike.com^
 ||oath.cloud^
 ||oath.com^
 ||ogury.co^
 ||ogury.io^
 ||pangle.io^
+||playrix.com^
 ||presage.io^
 ||prod.pinterest.global.map.fastly.net^
 ||pubnative.net^
@@ -78,8 +84,10 @@
 ||smaato.net^
 ||ssacdn.com^
 ||supersonicads.com^
+||swrve.com^
 ||tch571860.tch.quora.com^
 ||thecatmachine.com^
+||thinkingdata.cn^
 ||unity3d.com^
 ||unity3dusercontent.com^
 ||uyunad.com^
